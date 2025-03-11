@@ -1,0 +1,32 @@
+.header {
+    padding: 10px;
+    border-bottom: 2px solid #ccc;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 10px;
+    background-color: #c7e5ff;
+}
+
+#coursework {
+    background-color: #b9f3ff;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.courses {
+    color: #c56e1c;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #ff4400;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
